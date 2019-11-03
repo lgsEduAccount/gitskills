@@ -1,6 +1,8 @@
 Creating a new branch is quick & simple
 solve the conflicts
 
+git management
+
 this is just a test
 
 
